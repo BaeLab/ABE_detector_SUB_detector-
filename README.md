@@ -1,3 +1,4 @@
+<img width="1213" height="141" alt="Image" src="https://github.com/user-attachments/assets/0c93b225-0916-4964-bdc7-6d5a882f3aea" />
 
 This Python script is designed to facilitate the analysis of A-to-G conversion efficiency in NGS data when using ABE and ABE-related tools. You can modify the target_list.txt file to adjust the NGS files to be analyzed and the parameters used.
 
